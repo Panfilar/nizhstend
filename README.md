@@ -1,2 +1,2 @@
 # nizhstend
-temolate for prod
+template for prod
